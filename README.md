@@ -1,52 +1,51 @@
-**🚀 Project Based on JavaScript Mastery**
-This repository is a clone/practical study created based on a video from the JavaScript Mastery channel, which is an amazing resource for anyone looking to learn modern web development with JavaScript, React, Next.js, Tailwind, and more.
+# 🚀 Project Based on JavaScript Mastery
+
+This repository is a clone and practical study created based on a tutorial video from the **JavaScript Mastery** channel, which is an incredible resource for anyone wanting to learn modern web development with **JavaScript**, **React**, **Next.js**, **Tailwind**, and more.
 
 ---
 
-**⚠️ All credits go to the original creator of the project and to the JavaScript Mastery channel.
+⚠️ **All credits go to the original creator of the project and to the JavaScript Mastery channel.  
 This repository is for educational purposes only.**
 
 ---
 
-**✨ About the Project**
-This project was developed while following a tutorial video from the JavaScript Mastery channel. The goal was to practice what I learned during the video, strengthen my knowledge, and build a solid foundation for future projects.
+## ✨ About the Project
+
+This project was developed while following a tutorial video from the **JavaScript Mastery** channel. The goal was to practice the concepts I learned, solidify my understanding, and build a strong foundation for future projects.
 
 ---
 
-**📚 Technologies Used**
-React.js
+## 📚 Technologies Used
 
-JavaScript (ES6+)
-
-Tailwind CSS
-
-Vite / Next.js (depending on the project in the video)
-
-Other libraries/frameworks as mentioned in the video
+- **React.js**
+- **JavaScript (ES6+)**
+- **Tailwind CSS**
+- **Vite / Next.js** (depending on the project in the video)
+- Other libraries/frameworks as mentioned in the tutorial
 
 ---
 
-**💡 Objective**
-The main goal of this repository is to practice and learn. By replicating a project from the channel, I was able to understand better how to:
+## 💡 Objective
 
-Structure a modern React project
+The main goal of this repository is **learning and practicing**. By replicating a project from the channel, I gained valuable insights into how to:
 
-Work with reusable components
-
-Style with Tailwind CSS
-
-Deploy and host web projects
+- Structure a modern React project
+- Work with reusable components
+- Style with Tailwind CSS
+- Deploy and host web projects
 
 ---
 
-**🙌 Credits**
-This project was originally created by JavaScript Mastery.
-Check out the channel here: JavaScript Mastery on YouTube
+## 🙌 Credits
 
-If you liked the project, consider subscribing to JavaScript Mastery’s channel and giving a like on the original video!
+This project was originally created by **JavaScript Mastery**.  
+Check out the channel here: [JavaScript Mastery on YouTube](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
+
+If you enjoyed this project, consider subscribing to JavaScript Mastery’s channel and liking the original video!
 
 ---
 
-**🧑‍💻 About Me**
-My name is **Willian Minatto**, and I am constantly learning in the world of web development.
-This is just one of the many projects I plan to develop to practice and improve.
+## 🧑‍💻 About Me
+
+Hi, I'm **Willian Minatto**, a passionate web developer constantly improving my skills.  
+This is just one of many projects I’ll develop to practice and enhance my expertise!
