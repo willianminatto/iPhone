@@ -39,7 +39,7 @@ The main goal of this repository is **learning and practicing**. By replicating 
 ## 🙌 Credits
 
 This project was originally created by **JavaScript Mastery**.  
-Check out the channel here: [JavaScript Mastery on YouTube](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
+Check out the channel here: [JavaScript Mastery on YouTube](https://youtu.be/kRQbRAJ4-Fs?si=b9inurPPI_XOjKOw)
 
 If you enjoyed this project, consider subscribing to JavaScript Mastery’s channel and liking the original video!
 
